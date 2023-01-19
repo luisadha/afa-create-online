@@ -82,11 +82,11 @@ Limitations
 
 - Liability
 
-  You shouldn't confess, steal ideas about this
-
   Don't sell your channel if you use my idea
 
 - Trademark use
+
+  You shouldn't confess, steal ideas about this
 
 - Warranty
 
