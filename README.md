@@ -46,3 +46,14 @@ make sure I don't have trouble when DMing you
 3. Wait for the owner to read your message.
 
 4. Immediately I will help you to make a copy of this channel. your version.
+
+Terms and conditions 
+1. You shouldn't confess, steal ideas about this
+2. Don't sell your channel if you use my idea
+3. Your invitation link should not be shared. use this link instead 
+https://t.me/+PFNN_IbdMgc2OTY9
+
+
+Condition
+* Personal use
+
