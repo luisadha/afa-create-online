@@ -47,13 +47,46 @@ make sure I don't have trouble when DMing you
 
 4. Immediately I will help you to make a copy of this channel. your version.
 
-Terms and conditions 
-1. You shouldn't confess, steal ideas about this
-2. Don't sell your channel if you use my idea
-3. Your invitation link should not be shared. use this link instead 
-https://t.me/+PFNN_IbdMgc2OTY9
+## License
 
+MPL 2.0
 
-Condition
+Terms and conditions
+
+Permissions
+
+* Distribution 
+
+* Modification 
+
+* Patent use
+
 * Personal use
+
+* Private use
+
+Conditions
+  
+1. Same license (file)
+
+2. License and copyright notice 
+
+3. Disclose source
+
+   Your invitation link should not be shared. use this link instead 
+
+   https://t.me/+PFNN_IbdMgc2OTY9
+
+
+Limitations 
+
+- Liability
+
+  You shouldn't confess, steal ideas about this
+
+  Don't sell your channel if you use my idea
+
+- Trademark use
+
+- Warranty
 
