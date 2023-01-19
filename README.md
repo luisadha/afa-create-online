@@ -3,6 +3,9 @@
 
 Telegram channel templates to easily manage your own channel list
 
+
+![preview](./preview.jpeg)
+
 ## Description 
 
 AFA is an alternative all(default) folder to archive special list
