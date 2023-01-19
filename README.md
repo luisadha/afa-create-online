@@ -1,13 +1,42 @@
 # afa-create-online
+## AFA (All folder again)
+
 Telegram channel templates to easily manage your own channel list
 
-Description 
+## Description 
+
+AFA is an alternative all(default) folder to archive special list
+
+Feature:
+- One buble chat (Customable)
+- One pinned messages
+- Unimited list (This part is up to you)
+- Suggestions for : Own Channel, Own Bot or bot, Own Group.
+
+Presented by @luisadha
+
+
+## Pinned messages
+[All - Browse the list of telegram.]
+
+AFA (before All) is a message list that connects many other message lists such as a tab / folder called All and can also be an alternative archive feature.
+*require internet connections
+
+Recommended:
+- Use NekoGram to hide Tab All. Use this instead !(but telegram now prohibit modifying chat section all, this feature is still available if you subscribed to telegram premium).
+- Add your favorite channel or own channel, favorite bot or own bot, and own group.
+- Don't add Community Group List to AFA Archive and Person Chat List.
+
+## Template: version 3.0
+
+Powered by ```https://t.me/+PFNN_IbdMgc2OTY9```
+--------------------------------------------------
 
 
 
-# How to copy/download:
+## How to copy/download:
 
-Invite via this link
+Open this invite link
 
 https://t.me/+PFNN_IbdMgc2OTY9
 
