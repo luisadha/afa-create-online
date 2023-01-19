@@ -90,3 +90,4 @@ Limitations
 
 - Warranty
 
+https://choosealicense.com/licenses/mpl-2.0/
