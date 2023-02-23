@@ -41,7 +41,7 @@ Powered by ```https://t.me/+PFNN_IbdMgc2OTY9```
 
 Open this invite link
 
-https://t.me/+PFNN_IbdMgc2OTY9
+https://t.me/PFNN_IbdMgc2OTY9
 
 2. Submit a request to join AFA. I will immediately copy and provide a guide for making your own AFA channel, I will send you a message,
 make sure I don't have trouble when DMing you
