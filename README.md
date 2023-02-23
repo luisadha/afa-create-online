@@ -78,14 +78,16 @@ Conditions
 
    Your invitation link should not be shared. use this link instead 
 
-   https://t.me/+PFNN_IbdMgc2OTY9
+   https://t.me/PFNN_IbdMgc2OTY9
 
 
 Limitations 
 
 - Liability
 
-  Don't sell your channel if you use my idea
+  Don't sell your own cannel afa because that was my idea
+
+  That doesn't mean you can't sell your channel, just this template
 
 - Trademark use
 
